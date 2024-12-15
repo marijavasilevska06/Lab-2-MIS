@@ -9,3 +9,12 @@
 
 ![слика 1](https://github.com/user-attachments/assets/f6ea5d80-d3c8-4a55-9e27-7e4d8065d2d6)
 ![слика 2](https://github.com/user-attachments/assets/24372bc1-769d-486a-bb44-503a04e08210)
+
+# Getting Started
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+Lab: Write your first Flutter app
+Cookbook: Useful Flutter samples
+For help getting started with Flutter development, view the online documentation, which offers tutorials, samples, guidance on mobile development, and a full API reference.
